@@ -1,5 +1,7 @@
 # How long will it take for different amounts of water to boil?
 
+Satisfying some kid curiosity with a simple experiment.
+
 # Steps we followed
 ![](procedure.png)
 
