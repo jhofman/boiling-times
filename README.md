@@ -5,12 +5,12 @@ Satisfying some kid curiosity with a simple experiment.
 # Steps we followed
 ![](procedure.png)
 
-We decided to do two trials for each amount of water, but got bored towards the end.
-
 # Data we collected
 ![](data.png)
 
 Digital version in [boiling_times.csv](boiling_times.csv).
+
+We decided to do two trials for each amount of water, but got bored towards the end.
 
 # Results
 ![](temp_over_time.png)
