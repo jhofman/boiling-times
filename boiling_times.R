@@ -27,6 +27,7 @@ measurements %>%
   ggplot(aes(x = Cups, y = Time)) +
   stat_smooth(method = "lm", fullrange = T, color = "grey50") +
   geom_point() +
+  scale_y_continuous(breaks = 1:15) +
   xlim(c(0,5)) +
   labs(x = 'Cups of water',
        y = 'Time to boil (minutes)',
